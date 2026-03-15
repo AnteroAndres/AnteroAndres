@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antero Montalvo</h1>
-<h3 align="center">I am passionate about backend programming, I am 26 years old and I live in Lima</h3>
+<h3 align="center">I am passionate about backend programming, I am 28 years old and I live in Lima</h3>
 
 - 🔭 I’m currently working on **backend service projects with different languages**
 
